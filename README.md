@@ -2,7 +2,7 @@
 
 ## Hi!
 
-This is my second project written in Java. MazeGame is the game, in which you have to escape from maze! There is one problem, this is not classic a maze. On the board you can notice a lot of small spots. If you walk onto this spot, you will get a certain effect! At the moment there is only one effect (changes the exit location to another randomly selected one), but in future I want to add more! The game is ready to download and play, but it's still developing. Below I advertise **how to run an app**, **instruction for users**, **the documentation for programmers** and **application extension prospects**!
+This is my second project written in Java. MazeGame is the game, in which you have to escape from maze! There is one problem, this is not a classic maze. On the board you can notice a lot of small spots. If you walk onto this spot, you will get a certain effect! At the moment there is only one effect (changes the exit location to another randomly selected one), but in future I want to add more! The game is ready to download and play, but it's still developing. Below I advertise **how to run an app**, **instruction for users**, **the documentation for programmers** and **application extension prospects**!
 
 ## Table of contents
 * [How to run an app](#How-to-run-an-app)
